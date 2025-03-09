@@ -14,7 +14,7 @@ This Power BI dashboard visualizes startup funding trends from 1960 to recent ye
 ✔ **More Funding Rounds = More Capital Invested** → Investors gained confidence over time.  
 
 ## 📷 Dashboard Preview  
-![Dashboard Screenshot](PowerBI Dashboard.png)  
+![PowerBI Dashboard](https://github.com/user-attachments/assets/77cca78f-b35b-486f-a4bc-672815b8a372)
 
 ## 💡 How to Use This Project  
 1. **Download** the `startup_funding.pbix` file.  
