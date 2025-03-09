@@ -1,0 +1,12 @@
+# Ignore Power BI backup files
+*.pbix-bak
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
