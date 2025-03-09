@@ -17,7 +17,7 @@ This Power BI dashboard visualizes startup funding trends from 1960 to recent ye
 ![PowerBI Dashboard](https://github.com/user-attachments/assets/77cca78f-b35b-486f-a4bc-672815b8a372)
 
 ## 💡 How to Use This Project  
-1. **Download** the `startup_funding.pbix` file.  
+1. **Download** the `PowerBI Startup Funding.pbix` file.  
 2. **Open** it in **Power BI Desktop**.  
 3. **Explore & interact** with the visuals to analyze trends.  
 
