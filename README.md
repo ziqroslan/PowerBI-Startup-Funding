@@ -5,6 +5,18 @@
 ## 📌 Project Overview  
 This Power BI dashboard visualizes startup funding trends from 1960 to recent years. The analysis covers total funding amounts and the number of funding rounds to highlight investment trends.  
 
+📌 Why This Project?
+Understanding startup funding trends is crucial for entrepreneurs, investors, and policymakers. This project aims to analyze how funding patterns have evolved over time, highlighting key moments such as the dot-com bubble (2000-2002) and the rise of unicorn startups (post-2010). By visualizing these trends, users can gain insights into investment behaviors, market cycles, and potential opportunities in the startup ecosystem.
+
+⚙️ Power BI Features Used
+This dashboard leverages various Power BI features to enhance data visualization and analysis:
+
+Slicers – Enable users to filter funding data by year, funding rounds, and total investment.
+DAX Calculations – Compute total funding amounts, average investments, and year-over-year growth.
+Interactive Charts – Provide a dynamic view of startup funding trends with time-series analysis.
+Conditional Formatting – Highlights significant funding spikes, downturns, and notable market events.
+Drill-Through & Tooltips – Allow deeper insights into specific funding rounds and investor trends.
+
 ## 📊 Dataset Source  
 [Kaggle: Startup Investments Dataset](https://www.kaggle.com/datasets/justinas/startup-investments)  
 
