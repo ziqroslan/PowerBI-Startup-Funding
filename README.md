@@ -11,11 +11,11 @@ Understanding startup funding trends is crucial for entrepreneurs, investors, an
 ⚙️ Power BI Features Used
 This dashboard leverages various Power BI features to enhance data visualization and analysis:
 
-Slicers – Enable users to filter funding data by year, funding rounds, and total investment.
-DAX Calculations – Compute total funding amounts, average investments, and year-over-year growth.
-Interactive Charts – Provide a dynamic view of startup funding trends with time-series analysis.
-Conditional Formatting – Highlights significant funding spikes, downturns, and notable market events.
-Drill-Through & Tooltips – Allow deeper insights into specific funding rounds and investor trends.
+- Slicers – Enable users to filter funding data by year, funding rounds, and total investment.
+- DAX Calculations – Compute total funding amounts, average investments, and year-over-year growth.
+- Interactive Charts – Provide a dynamic view of startup funding trends with time-series analysis.
+- Conditional Formatting – Highlights significant funding spikes, downturns, and notable market events.
+- Drill-Through & Tooltips – Allow deeper insights into specific funding rounds and investor trends.
 
 ## 📊 Dataset Source  
 [Kaggle: Startup Investments Dataset](https://www.kaggle.com/datasets/justinas/startup-investments)  
